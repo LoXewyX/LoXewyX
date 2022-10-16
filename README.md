@@ -1,6 +1,5 @@
 # Hi and welcome to my profile! :wave:
 ## :information_desk_person: About me
-- I'm a 18 yo with 2 years of experience of coding. :smile_cat:
 - I started with Java:coffee: and nowadays I'm still learning Pyhton:snake: and I quite know Java. I also know other programming languages.
 - I've done projects with frameworks like React, Angular or Flutter but unfortunately I've never finished none of them due the high learning curve but in a future maybe I'll learn some of them really:sweat_smile:
 - In summary I'm a novice programmer with spirit to learn and overcome about this world of coding.:fist:
