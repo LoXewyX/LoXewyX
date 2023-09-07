@@ -1,18 +1,15 @@
-# Hi and welcome to my profile! :wave:
-## :information_desk_person: About me
-- I started with Java:coffee: and Pyhton:snake: and I quite know better Java than Python. I also know other programming languages but not as good as I mented.
-- I've done projects with frameworks like React, Angular, Vue or Flutter but unfortunately I've never finished none of them due the high learning curve but in a future maybe I'll learn some of them and do some project :sweat_smile:
-- In summary I'm a novice programmer with spirit to learn and overcome about this world of coding. :fist:
-- I'm from Spain :es: so please forgive me if my level of English is not enough or I do some mistakes while I write. I'm struggling to improve as much as I can. :muscle:
-- Also I wish to improve my music skills with DAWs like FL Studio, the only one I've payed but I chose the Fruity version so I can't do much but I'm not qualified to play no instrument but the recorder. So yeah in a future I wish to play the piano or the guitar. :musical_keyboard::musical_note:
+# Welcome to my profile! :wave:
 
-<p align="center"><a href="https://loxewyx.bandcamp.com/">Check out my Bandcamp</a></p>
-<h3 align="center" style="text-align:center">[totally not sponsored]</h3>
+## About me
+Hey there! I'm a passionate programmer with experience in Java ☕ and Python 🐍. My proficiency leans towards Java, but I'm continually honing my skills in both languages. I'm also familiar with several other programming languages, though I acknowledge there's always room for improvement.
+
+## Project Experience
+While I've embarked on projects involving popular frameworks like React, Angular, Vue, and Flutter, I admit that I've faced challenges on the journey and haven't completed some of them due to their steep learning curves. However, I'm determined to tackle these technologies head-on in the future and bring my projects to fruition. 😅
+
+## Thank You!
+<h3 align="center">:sparkles: Thank you so much for taking your time reading this :sparkles:</h3>
 
 <!--My Watermark-->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/86871709?s=400&u=60318d0041729f776a4a3b04d0e2370b8477b184&v=4" width=250 height=250
-  style="border: 10px solid black; overflow: hidden"/>
+  <img src="https://avatars.githubusercontent.com/u/86871709?s=400&u=60318d0041729f776a4a3b04d0e2370b8477b184&v=4" width=250 height=250 style="border: 10px solid black; overflow: hidden"/>
 </p>
-
-<h3 align="center">:sparkles:Thank you so much for taking your time reading this:sparkles:</h3>
