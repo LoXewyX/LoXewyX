@@ -8,8 +8,3 @@ While I've embarked on projects involving popular frameworks like React, Angular
 
 ## Thank You!
 <h3 align="center">:sparkles: Thank you so much for taking your time reading this :sparkles:</h3>
-
-<!--My Watermark-->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/86871709?s=400&u=60318d0041729f776a4a3b04d0e2370b8477b184&v=4" width=250 height=250 style="border: 10px solid black; overflow: hidden"/>
-</p>
