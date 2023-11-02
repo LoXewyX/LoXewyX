@@ -6,5 +6,4 @@ Hey there! I'm a passionate programmer with experience in Java ☕ and Python �
 ## Project Experience
 While I've embarked on projects involving popular frameworks like React, Angular, Vue, and Flutter, I admit that I've faced challenges on the journey and haven't completed some of them due to their steep learning curves. However, I'm determined to tackle these technologies head-on in the future and bring my projects to fruition. 😅
 
-## Thank You!
 <h3 align="center">:sparkles: Thank you so much for taking your time reading this :sparkles:</h3>
